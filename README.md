@@ -64,10 +64,11 @@ Model performance is validated right after the optimization cycle using industry
 
 ## 🚀 Installation & Local Execution
 
-### 1. Clone the Repository
+### 1. Clone the Repository + Data
 ```bash
-git clone [https://github.com/yourusername/prebioticnet.git](https://github.com/yourusername/prebioticnet.git)
+git clone https://github.com/KDLearner123/prebioticnet.git
 cd prebioticnet
+git clone https://github.com/brunocuevas/chemorigins-data.git
 ```
 
 ### 2. Configure the Environment
