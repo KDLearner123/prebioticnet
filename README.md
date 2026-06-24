@@ -6,7 +6,7 @@ By applying network theory and directed graph traversal, PrebioticNet autonomous
 
 ---
 
-## 🔬 Core Architecture & ML Pipeline
+##  Core Architecture & ML Pipeline
 
 Huggingface Spaces link: [text](https://huggingface.co/spaces/KdLearner/prebioticnet/blob/main/app.py)
 
@@ -24,7 +24,7 @@ Once edge affinities are inferred by the model, the graph is analyzed using a cu
 
 ---
 
-## 💻 Web Interface & Deployment
+##  Web Interface & Deployment
 
 The system features a live, interactive web dashboard built with **Gradio** and hosted on **Hugging Face Spaces**. 
 
@@ -34,7 +34,7 @@ The system features a live, interactive web dashboard built with **Gradio** and 
 
 ---
 
-## 🛠️ Repository Structure
+##  Repository Structure
 
 ```text
 prebioticnet/
@@ -53,7 +53,7 @@ prebioticnet/
 ```
 ---
 
-## 📊 Technical Performance & Validation
+##  Technical Performance & Validation
 
 Model performance is validated right after the optimization cycle using industry-standard machine learning metrics to track link discrimination capability:
 
@@ -62,7 +62,7 @@ Model performance is validated right after the optimization cycle using industry
 
 ---
 
-## 🚀 Installation & Local Execution
+##  Installation & Local Execution
 
 ### 1. Clone the Repository + Data
 ```bash
