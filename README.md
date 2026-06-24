@@ -1,4 +1,4 @@
-# 🌋 PrebioticNet: Geometric Deep Learning for Topological Chemical Evolution
+🌋 PrebioticNet: Geometric Deep Learning for Topological Chemical Evolution
 
 PrebioticNet is an end-to-end geometric deep learning framework designed to model early-Earth chemical evolution and primitive metabolic self-assembly. Utilizing a custom Heterogeneous Graph Neural Network (HGNN) built with PyTorch Geometric, the system maps structural molecular characteristics alongside varying global environmental conditions (Temperature, pH) to predict the link-feasibility of prebiotic reactions. 
 
