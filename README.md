@@ -8,7 +8,7 @@ By applying network theory and directed graph traversal, PrebioticNet autonomous
 
 ##  Core Architecture & ML Pipeline
 
-Huggingface Spaces link: [text](https://huggingface.co/spaces/KdLearner/prebioticnet/blob/main/app.py)
+Huggingface Spaces link: https://huggingface.co/spaces/KdLearner/prebioticnet/blob/main/app.py
 
 ### 1. Heterogeneous Graph Construction
 The primordial soup is modeled as a directed, bipartite heterogeneous graph structure containing two distinct node classes:
